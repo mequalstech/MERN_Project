@@ -1,0 +1,6 @@
+.card-icon-bg .card-body .content {
+    max-width: 100% !important;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}

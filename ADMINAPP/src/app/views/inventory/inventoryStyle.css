@@ -1,0 +1,73 @@
+#customers thead {
+    background-color: #001641 !important;
+    color: #fff !important;
+}
+
+#customers,
+#customers thead tr th,
+#customers tbody tr td {
+    border: 1px solid #dee2e6 !important;
+}
+
+.cls-vendor .form-wrapper {
+    padding: 14px;
+    box-shadow: 0px 0px 5px #ccc;
+    margin: 20px 0px;
+}
+
+.cls-title,
+.sub-title {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+    text-transform: capitalize !important;
+    color: #332e38;
+}
+
+.sub-title {
+    font-size: 1rem;
+    border-top: 1px solid #d3d3d3;
+    margin-top: 18px;
+    padding-top: 25px;
+}
+
+.form-group label {
+    color: #333;
+    font-size: 11px !important;
+    color: rgb(14, 13, 13);
+    text-transform: capitalize;
+}
+
+.form-group input {
+    font-size: 14px !important;
+    color: rgb(14, 13, 13);
+    text-transform: capitalize;
+}
+
+.email input {
+    text-transform: unset !important;
+}
+
+.form-group .error {
+    color: red;
+    font-size: 10px;
+    text-transform: capitalize;
+    position: absolute;
+}
+
+.fileInput input {
+    padding-bottom: 33px !important;
+}
+
+.dropDown {
+    padding: 5px !important;
+}
+.unchecked:after{
+    content: '';
+    display: inline-block;
+    width: 11px;
+    top: -4px;
+    height: 11px;
+    background: #fff;
+    position: relative;
+    left: 1px;
+}

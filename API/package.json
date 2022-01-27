@@ -1,0 +1,39 @@
+{
+  "name": "sphoenix-api",
+  "version": "1.0.0",
+  "description": "Spoenix Online Trading API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://karunakaran142000@bitbucket.org/mequalstech/version_1.git"
+  },
+  "keywords": [
+    "SA"
+  ],
+  "author": {
+    "email": "karuna@mequls.co.in",
+    "name": "Karunakaran Selvam"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.11.15",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.5.0",
+    "nodemon": "^2.0.7",
+    "path": "^0.12.7",
+    "twilio": "^3.57.0",
+    "uuid": "^8.3.2"
+  }
+}

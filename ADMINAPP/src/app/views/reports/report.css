@@ -1,0 +1,41 @@
+.dropDown {
+    padding: 6px !important;
+    outline: none !important;
+    border: 1px solid #ced4da !important;
+}
+
+.customTable {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #47404f;
+    background-color: transparent;
+    border: 1px solid #dee2e6;
+    table-layout: fixed;
+}
+
+.customTable th {
+    background-color: #001d4c !important;
+    color: #fff !important;
+    vertical-align: bottom;
+    border: 1px solid #dee2e6;
+    border-bottom: 2px solid #dee2e6;
+    text-align: center;
+    padding: 7px;
+}
+
+.customTable td {
+    border: 1px solid #dee2e6 !important;
+    border-bottom: 2px solid #dee2e6 !important;
+    text-align: center !important;
+    padding: 10px !important;
+}
+.css-1okebmr-indicatorSeparator{
+    display:none;
+}
+.ip-btn-cls{
+    font-size: 14px !important;
+    font-weight: 400;
+    line-height: 1.5; 
+    height: 38px;
+
+}

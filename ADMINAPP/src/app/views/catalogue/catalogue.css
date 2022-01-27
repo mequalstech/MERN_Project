@@ -1,0 +1,77 @@
+.react-bootstrap-table-editing-cell{
+    position:relative;
+}
+.alert.alert-danger.in{
+    position:absolute !important;
+    width:200px;
+    font-size:12px;
+    top:55px;
+
+}
+.removeicon{
+    margin:0px !important;
+}
+img.alt-css{
+    color:#999;
+    border: 1px solid #efefef;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+    
+  }
+  img.alt-css:before{
+      
+    font-family: 'iconsmind';
+    content: "\ee2a";position: absolute;
+    z-index: 100;
+    background: #fff;
+    left: 4px;
+    top: 1px;
+    font-size: 17px;
+  }
+  .cls-checked:after{
+    content:'';
+    display:inline-block;
+    width: 14px;
+    height: 14px;
+    background:rgb(8, 117, 191);
+    border-radius:100%;
+    border:1px solid #999;
+    position:relative;
+    top:-3px;
+    
+    box-shadow: 0px 0px 5px 5px #fff;
+
+  }
+  .cls-unchecked:after{
+    content:'';
+    display:inline-block;
+    width: 14px;
+    height: 14px;
+    background:#fff;
+    border-radius:100%;
+    border:1px solid #999;
+    position:relative;
+    top:-4px;
+    
+    box-shadow: 0px 0px 5px 5px #fff;
+
+  }
+  .cls--checkboc-checked{
+    
+    content:'';
+    display:inline-block;
+    width: 14px;
+    height: 14px;
+    background:rgb(8, 117, 191);
+    border-radius:100%;
+    border:1px solid #999;
+    position:relative;
+    top:-3px;
+  }
+  .ion-md-checkbox:before {
+    content: "";
+    color: #0075ff;
+    font-size: 18px;
+    background: #fff;
+}
